@@ -1,0 +1,21 @@
+ASIN,Category,Product URL,Number of sellers,Rank,Rating,Number of reviews,Price
+B08N5WRWNW,Electronics,https://www.amazon.com/dp/B08N5WRWNW,15,#1,4.8,"72,839",$7.99
+B07XJ8C8F5,Home & Kitchen,https://www.amazon.com/dp/B07XJ8C8F5,8,#2,4.7,"45,231",$12.99
+B09G9FPHY6,Books,https://www.amazon.com/dp/B09G9FPHY6,3,#3,4.9,"18,456",$15.99
+B08L5VN6TG,Sports & Outdoors,https://www.amazon.com/dp/B08L5VN6TG,12,#4,4.6,"32,145",$24.99
+B07ZPKN6YR,Beauty & Personal Care,https://www.amazon.com/dp/B07ZPKN6YR,20,#5,4.5,"91,234",$9.99
+B09JQMJHXY,Toys & Games,https://www.amazon.com/dp/B09JQMJHXY,6,#6,4.8,"28,567",$19.99
+B08XYZBQCK,Clothing,https://www.amazon.com/dp/B08XYZBQCK,10,#7,4.4,"15,678",$29.99
+B07VGRJDFY,Electronics,https://www.amazon.com/dp/B07VGRJDFY,25,#8,4.9,"105,432",$49.99
+B09KQRST12,Office Products,https://www.amazon.com/dp/B09KQRST12,5,#9,4.3,"8,901",$14.99
+B08MNBVCXZ,Health & Household,https://www.amazon.com/dp/B08MNBVCXZ,18,#10,4.7,"56,789",$11.99
+B07QWERTY1,Automotive,https://www.amazon.com/dp/B07QWERTY1,7,#11,4.6,"23,456",$34.99
+B09ASDFGH2,Pet Supplies,https://www.amazon.com/dp/B09ASDFGH2,14,#12,4.8,"67,890",$16.99
+B08ZXCVBN3,Garden & Outdoor,https://www.amazon.com/dp/B08ZXCVBN3,9,#13,4.5,"34,567",$22.99
+B07POIUYT4,Baby,https://www.amazon.com/dp/B07POIUYT4,11,#14,4.7,"45,678",$18.99
+B09LKJHGF5,Grocery & Gourmet Food,https://www.amazon.com/dp/B09LKJHGF5,16,#15,4.4,"12,345",$8.99
+B08MNBVCX6,Industrial & Scientific,https://www.amazon.com/dp/B08MNBVCX6,4,#16,4.6,"9,876",$39.99
+B07QAZWSX7,Musical Instruments,https://www.amazon.com/dp/B07QAZWSX7,13,#17,4.9,"21,098",$89.99
+B09EDCRFV8,Video Games,https://www.amazon.com/dp/B09EDCRFV8,22,#18,4.8,"78,901",$59.99
+B08TGBYHN9,Camera & Photo,https://www.amazon.com/dp/B08TGBYHN9,8,#19,4.7,"43,210",$129.99
+B07YHNUJM0,Cell Phones & Accessories,https://www.amazon.com/dp/B07YHNUJM0,19,#20,4.5,"87,654",$25.99
